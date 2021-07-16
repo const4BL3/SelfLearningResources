@@ -6,4 +6,4 @@ At the following link, you'll find tutorials for:
 * Java
 * C++
 
-https://algocademy.com/?referral=levelup
+https://levelup.algocademy.com/
